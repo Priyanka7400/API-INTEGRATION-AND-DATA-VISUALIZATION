@@ -17,4 +17,5 @@ This project demonstrates API integration and data visualization skills.
 
 ---
 
-## 📂 Project Structur
+##output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/82cf0eec-15cb-4d4e-8cf0-bb37581ed9cb" />
